@@ -1,0 +1,14 @@
+/* your styles go here */
+.cushion {
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}
+
+.intro-text {
+  color: black !important;
+  font-size: 4em !important;
+}
+
+.fat-paragraph {
+  font-size: 1.25em;
+}
