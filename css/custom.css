@@ -1,14 +1,11 @@
 /* your styles go here */
-.cushion {
-  padding-top: 2.5%;
-  padding-bottom: 2.5%;
+.fat-heading {
+	font-weight: 800;
 }
 
-.intro-text {
-  color: black !important;
-  font-size: 4em !important;
-}
-
-.fat-paragraph {
-  font-size: 1.25em;
+hr.work {
+  margin-top: 22px;
+  margin-bottom: 22px;
+  border: 0;
+  border-top: 1px solid #29a2d6;
 }
